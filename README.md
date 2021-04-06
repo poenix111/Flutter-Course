@@ -12,7 +12,7 @@ _Follow the official guide to install the [enviroment](https://flutter.dev/docs/
 
 
 # Installation
-_Clone or download the repository and run open a project_
+_Clone or download the repository and open a project then run_
 ```
 dart pub get
 ```
